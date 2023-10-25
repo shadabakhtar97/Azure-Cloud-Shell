@@ -39,6 +39,9 @@ kubectl logs -l <label-key>=<label-value>
 
 ### Useful links
 Overview of kubectl
+
 Getting started with kubectl
+
 Kubectl cheat sheet
+
 Kubectl reference
